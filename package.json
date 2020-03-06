@@ -1,0 +1,14 @@
+{
+  "author": "Blaine Ehrhart",
+  "description": "External Decoder Example",
+  "name": "external-decoder-example",
+  "version": "1.0.0",
+  "private": false,
+  "engines": {
+    "node": "=13.6.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "socket.io-client": "^2.3.0"
+  }
+}
